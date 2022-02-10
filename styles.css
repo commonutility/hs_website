@@ -137,7 +137,7 @@ nav{
     display:block;
     color: white;
     text-align:center;
-    position: relative;
+    position: absolute;
     top: 15px;
     right: 30px;
     background: #A770EF;  /* fallback for old browsers */
